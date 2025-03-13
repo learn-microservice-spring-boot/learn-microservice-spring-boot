@@ -1,5 +1,3 @@
-# learn-microservice-spring-boot" 
-
 # Kafka
 
 ### Running Kafka local
